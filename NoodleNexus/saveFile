@@ -1,0 +1,9086 @@
+Meshes
+Mesh Full_Screen_Quad
+assets/models/2x2_Quad_for_FSQuad_xyz_n_uv.ply
+0 0 0
+0 0 0
+
+1
+1
+0
+Mesh MiniMap
+assets/models/2x2_Quad_for_FSQuad_xyz_n_uv.ply
+25 2 5
+0 90 0
+heart.bmp
+1
+1
+1
+Mesh particle
+assets/LevelModels/blood.ply
+0 0 0
+0 0 0
+heart.bmp
+1
+0.05
+0
+Mesh Gun
+assets/models/Gun.ply
+35.438 1.79718 3.66945
+6.17777 -80.6668 -6.09661
+tt_pistol_Albedo.bmp
+1
+1
+0
+Mesh Floor0
+assets/LevelModels/Floor.ply
+2 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling0
+assets/LevelModels/Ceiling.ply
+2 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall0
+assets/LevelModels/Wall.ply
+2 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall1
+assets/LevelModels/Wall.ply
+0 1 10
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor1
+assets/LevelModels/Floor.ply
+2 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling1
+assets/LevelModels/Ceiling.ply
+2 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall2
+assets/LevelModels/Wall.ply
+0 1 12
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor2
+assets/LevelModels/Floor.ply
+2 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling2
+assets/LevelModels/Ceiling.ply
+2 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall3
+assets/LevelModels/Wall.ply
+0 1 14
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor3
+assets/LevelModels/Floor.ply
+2 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling3
+assets/LevelModels/Ceiling.ply
+2 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall4
+assets/LevelModels/Wall.ply
+0 1 16
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor4
+assets/LevelModels/Floor.ply
+2 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling4
+assets/LevelModels/Ceiling.ply
+2 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall5
+assets/LevelModels/Wall.ply
+0 1 18
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor5
+assets/LevelModels/Floor.ply
+2 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling5
+assets/LevelModels/Ceiling.ply
+2 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall6
+assets/LevelModels/Wall.ply
+0 1 20
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor6
+assets/LevelModels/Floor.ply
+2 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling6
+assets/LevelModels/Ceiling.ply
+2 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall7
+assets/LevelModels/Wall.ply
+0 1 22
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor7
+assets/LevelModels/Floor.ply
+2 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling7
+assets/LevelModels/Ceiling.ply
+2 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall8
+assets/LevelModels/Wall.ply
+2 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall9
+assets/LevelModels/Wall.ply
+0 1 24
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor8
+assets/LevelModels/Floor.ply
+4 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling8
+assets/LevelModels/Ceiling.ply
+4 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall10
+assets/LevelModels/Wall.ply
+4 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor9
+assets/LevelModels/Floor.ply
+4 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling9
+assets/LevelModels/Ceiling.ply
+4 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor10
+assets/LevelModels/Floor.ply
+4 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling10
+assets/LevelModels/Ceiling.ply
+4 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor11
+assets/LevelModels/Floor.ply
+4 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling11
+assets/LevelModels/Ceiling.ply
+4 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor12
+assets/LevelModels/Floor.ply
+4 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling12
+assets/LevelModels/Ceiling.ply
+4 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor13
+assets/LevelModels/Floor.ply
+4 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling13
+assets/LevelModels/Ceiling.ply
+4 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor14
+assets/LevelModels/Floor.ply
+4 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling14
+assets/LevelModels/Ceiling.ply
+4 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor15
+assets/LevelModels/Floor.ply
+4 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling15
+assets/LevelModels/Ceiling.ply
+4 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall11
+assets/LevelModels/Wall.ply
+4 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor16
+assets/LevelModels/Floor.ply
+6 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling16
+assets/LevelModels/Ceiling.ply
+6 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall12
+assets/LevelModels/Wall.ply
+6 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall13
+assets/LevelModels/Wall.ply
+4 1 2
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor17
+assets/LevelModels/Floor.ply
+6 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling17
+assets/LevelModels/Ceiling.ply
+6 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall14
+assets/LevelModels/Wall.ply
+4 1 4
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor18
+assets/LevelModels/Floor.ply
+6 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling18
+assets/LevelModels/Ceiling.ply
+6 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall15
+assets/LevelModels/Wall.ply
+4 1 6
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor19
+assets/LevelModels/Floor.ply
+6 1 8
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door0
+assets/LevelModels/Door.ply
+4 1 8
+0 180 0
+door.bmp
+1
+1.8
+0
+Mesh Wall16
+assets/LevelModels/Wall.ply
+4 1 8
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor20
+assets/LevelModels/Floor.ply
+6 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling19
+assets/LevelModels/Ceiling.ply
+6 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor21
+assets/LevelModels/Floor.ply
+6 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling20
+assets/LevelModels/Ceiling.ply
+6 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor22
+assets/LevelModels/Floor.ply
+6 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling21
+assets/LevelModels/Ceiling.ply
+6 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor23
+assets/LevelModels/Floor.ply
+6 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling22
+assets/LevelModels/Ceiling.ply
+6 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor24
+assets/LevelModels/Floor.ply
+6 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling23
+assets/LevelModels/Ceiling.ply
+6 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor25
+assets/LevelModels/Floor.ply
+6 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling24
+assets/LevelModels/Ceiling.ply
+6 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor26
+assets/LevelModels/Floor.ply
+6 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling25
+assets/LevelModels/Ceiling.ply
+6 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor27
+assets/LevelModels/Floor.ply
+6 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling26
+assets/LevelModels/Ceiling.ply
+6 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall17
+assets/LevelModels/Wall.ply
+6 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor28
+assets/LevelModels/Floor.ply
+8 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling27
+assets/LevelModels/Ceiling.ply
+8 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall18
+assets/LevelModels/Wall.ply
+8 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor29
+assets/LevelModels/Floor.ply
+8 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling28
+assets/LevelModels/Ceiling.ply
+8 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor30
+assets/LevelModels/Floor.ply
+8 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling29
+assets/LevelModels/Ceiling.ply
+8 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor31
+assets/LevelModels/Floor.ply
+8 1 8
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door1
+assets/LevelModels/Door.ply
+8 1 8
+0 0 0
+door.bmp
+1
+1.8
+0
+Mesh Wall19
+assets/LevelModels/Wall.ply
+8 1 8
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor32
+assets/LevelModels/Floor.ply
+8 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling30
+assets/LevelModels/Ceiling.ply
+8 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor33
+assets/LevelModels/Floor.ply
+8 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling31
+assets/LevelModels/Ceiling.ply
+8 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor34
+assets/LevelModels/Floor.ply
+8 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling32
+assets/LevelModels/Ceiling.ply
+8 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor35
+assets/LevelModels/Floor.ply
+8 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling33
+assets/LevelModels/Ceiling.ply
+8 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor36
+assets/LevelModels/Floor.ply
+8 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling34
+assets/LevelModels/Ceiling.ply
+8 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor37
+assets/LevelModels/Floor.ply
+8 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling35
+assets/LevelModels/Ceiling.ply
+8 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor38
+assets/LevelModels/Floor.ply
+8 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling36
+assets/LevelModels/Ceiling.ply
+8 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor39
+assets/LevelModels/Floor.ply
+8 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling37
+assets/LevelModels/Ceiling.ply
+8 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall20
+assets/LevelModels/Wall.ply
+8 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor40
+assets/LevelModels/Floor.ply
+8 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling38
+assets/LevelModels/Ceiling.ply
+8 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall21
+assets/LevelModels/Wall.ply
+8 1 28
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall22
+assets/LevelModels/Wall.ply
+6 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor41
+assets/LevelModels/Floor.ply
+8 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling39
+assets/LevelModels/Ceiling.ply
+8 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall23
+assets/LevelModels/Wall.ply
+6 1 30
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor42
+assets/LevelModels/Floor.ply
+8 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling40
+assets/LevelModels/Ceiling.ply
+8 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall24
+assets/LevelModels/Wall.ply
+8 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall25
+assets/LevelModels/Wall.ply
+6 1 32
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor43
+assets/LevelModels/Floor.ply
+10 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling41
+assets/LevelModels/Ceiling.ply
+10 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall26
+assets/LevelModels/Wall.ply
+10 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor44
+assets/LevelModels/Floor.ply
+10 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling42
+assets/LevelModels/Ceiling.ply
+10 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor45
+assets/LevelModels/Floor.ply
+10 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling43
+assets/LevelModels/Ceiling.ply
+10 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall27
+assets/LevelModels/Wall.ply
+10 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor46
+assets/LevelModels/Floor.ply
+10 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling44
+assets/LevelModels/Ceiling.ply
+10 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall28
+assets/LevelModels/Wall.ply
+10 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor47
+assets/LevelModels/Floor.ply
+10 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling45
+assets/LevelModels/Ceiling.ply
+10 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor48
+assets/LevelModels/Floor.ply
+10 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling46
+assets/LevelModels/Ceiling.ply
+10 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor49
+assets/LevelModels/Floor.ply
+10 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling47
+assets/LevelModels/Ceiling.ply
+10 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor50
+assets/LevelModels/Floor.ply
+10 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling48
+assets/LevelModels/Ceiling.ply
+10 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor51
+assets/LevelModels/Floor.ply
+10 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling49
+assets/LevelModels/Ceiling.ply
+10 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor52
+assets/LevelModels/Floor.ply
+10 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling50
+assets/LevelModels/Ceiling.ply
+10 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor53
+assets/LevelModels/Floor.ply
+10 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling51
+assets/LevelModels/Ceiling.ply
+10 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall29
+assets/LevelModels/Wall.ply
+10 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor54
+assets/LevelModels/Floor.ply
+10 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling52
+assets/LevelModels/Ceiling.ply
+10 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall30
+assets/LevelModels/Wall.ply
+10 1 28
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor55
+assets/LevelModels/Floor.ply
+10 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling53
+assets/LevelModels/Ceiling.ply
+10 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall31
+assets/LevelModels/Wall.ply
+10 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor56
+assets/LevelModels/Floor.ply
+12 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling54
+assets/LevelModels/Ceiling.ply
+12 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall32
+assets/LevelModels/Wall.ply
+12 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor57
+assets/LevelModels/Floor.ply
+12 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling55
+assets/LevelModels/Ceiling.ply
+12 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor58
+assets/LevelModels/Floor.ply
+12 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling56
+assets/LevelModels/Ceiling.ply
+12 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall33
+assets/LevelModels/Wall.ply
+12 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor59
+assets/LevelModels/Floor.ply
+12 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling57
+assets/LevelModels/Ceiling.ply
+12 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall34
+assets/LevelModels/Wall.ply
+12 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor60
+assets/LevelModels/Floor.ply
+12 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling58
+assets/LevelModels/Ceiling.ply
+12 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor61
+assets/LevelModels/Floor.ply
+12 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling59
+assets/LevelModels/Ceiling.ply
+12 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor62
+assets/LevelModels/Floor.ply
+12 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling60
+assets/LevelModels/Ceiling.ply
+12 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor63
+assets/LevelModels/Floor.ply
+12 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling61
+assets/LevelModels/Ceiling.ply
+12 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor64
+assets/LevelModels/Floor.ply
+12 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling62
+assets/LevelModels/Ceiling.ply
+12 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor65
+assets/LevelModels/Floor.ply
+12 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling63
+assets/LevelModels/Ceiling.ply
+12 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor66
+assets/LevelModels/Floor.ply
+12 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling64
+assets/LevelModels/Ceiling.ply
+12 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall35
+assets/LevelModels/Wall.ply
+12 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor67
+assets/LevelModels/Floor.ply
+12 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling65
+assets/LevelModels/Ceiling.ply
+12 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall36
+assets/LevelModels/Wall.ply
+12 1 28
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall37
+assets/LevelModels/Wall.ply
+12 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor68
+assets/LevelModels/Floor.ply
+12 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling66
+assets/LevelModels/Ceiling.ply
+12 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor69
+assets/LevelModels/Floor.ply
+12 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling67
+assets/LevelModels/Ceiling.ply
+12 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall38
+assets/LevelModels/Wall.ply
+12 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor70
+assets/LevelModels/Floor.ply
+14 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling68
+assets/LevelModels/Ceiling.ply
+14 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall39
+assets/LevelModels/Wall.ply
+14 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor71
+assets/LevelModels/Floor.ply
+14 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling69
+assets/LevelModels/Ceiling.ply
+14 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor72
+assets/LevelModels/Floor.ply
+14 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling70
+assets/LevelModels/Ceiling.ply
+14 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall40
+assets/LevelModels/Wall.ply
+14 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall41
+assets/LevelModels/Wall.ply
+14 1 6
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor73
+assets/LevelModels/Floor.ply
+14 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling71
+assets/LevelModels/Ceiling.ply
+14 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall42
+assets/LevelModels/Wall.ply
+14 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor74
+assets/LevelModels/Floor.ply
+14 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling72
+assets/LevelModels/Ceiling.ply
+14 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor75
+assets/LevelModels/Floor.ply
+14 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling73
+assets/LevelModels/Ceiling.ply
+14 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor76
+assets/LevelModels/Floor.ply
+14 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling74
+assets/LevelModels/Ceiling.ply
+14 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor77
+assets/LevelModels/Floor.ply
+14 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling75
+assets/LevelModels/Ceiling.ply
+14 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor78
+assets/LevelModels/Floor.ply
+14 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling76
+assets/LevelModels/Ceiling.ply
+14 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor79
+assets/LevelModels/Floor.ply
+14 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling77
+assets/LevelModels/Ceiling.ply
+14 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor80
+assets/LevelModels/Floor.ply
+14 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling78
+assets/LevelModels/Ceiling.ply
+14 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall43
+assets/LevelModels/Wall.ply
+14 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor81
+assets/LevelModels/Floor.ply
+14 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling79
+assets/LevelModels/Ceiling.ply
+14 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall44
+assets/LevelModels/Wall.ply
+14 1 30
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor82
+assets/LevelModels/Floor.ply
+14 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling80
+assets/LevelModels/Ceiling.ply
+14 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall45
+assets/LevelModels/Wall.ply
+14 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor83
+assets/LevelModels/Floor.ply
+16 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling81
+assets/LevelModels/Ceiling.ply
+16 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall46
+assets/LevelModels/Wall.ply
+16 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor84
+assets/LevelModels/Floor.ply
+16 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling82
+assets/LevelModels/Ceiling.ply
+16 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall47
+assets/LevelModels/Wall.ply
+16 1 6
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor85
+assets/LevelModels/Floor.ply
+16 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling83
+assets/LevelModels/Ceiling.ply
+16 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall48
+assets/LevelModels/Wall.ply
+16 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor86
+assets/LevelModels/Floor.ply
+16 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling84
+assets/LevelModels/Ceiling.ply
+16 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor87
+assets/LevelModels/Floor.ply
+16 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling85
+assets/LevelModels/Ceiling.ply
+16 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor88
+assets/LevelModels/Floor.ply
+16 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling86
+assets/LevelModels/Ceiling.ply
+16 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor89
+assets/LevelModels/Floor.ply
+16 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling87
+assets/LevelModels/Ceiling.ply
+16 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor90
+assets/LevelModels/Floor.ply
+16 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling88
+assets/LevelModels/Ceiling.ply
+16 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor91
+assets/LevelModels/Floor.ply
+16 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling89
+assets/LevelModels/Ceiling.ply
+16 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor92
+assets/LevelModels/Floor.ply
+16 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling90
+assets/LevelModels/Ceiling.ply
+16 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall49
+assets/LevelModels/Wall.ply
+16 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor93
+assets/LevelModels/Floor.ply
+16 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling91
+assets/LevelModels/Ceiling.ply
+16 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall50
+assets/LevelModels/Wall.ply
+16 1 30
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor94
+assets/LevelModels/Floor.ply
+16 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling92
+assets/LevelModels/Ceiling.ply
+16 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall51
+assets/LevelModels/Wall.ply
+16 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor95
+assets/LevelModels/Floor.ply
+18 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling93
+assets/LevelModels/Ceiling.ply
+18 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall52
+assets/LevelModels/Wall.ply
+18 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor96
+assets/LevelModels/Floor.ply
+18 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling94
+assets/LevelModels/Ceiling.ply
+18 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall53
+assets/LevelModels/Wall.ply
+18 1 6
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor97
+assets/LevelModels/Floor.ply
+18 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling95
+assets/LevelModels/Ceiling.ply
+18 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall54
+assets/LevelModels/Wall.ply
+18 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor98
+assets/LevelModels/Floor.ply
+18 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling96
+assets/LevelModels/Ceiling.ply
+18 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor99
+assets/LevelModels/Floor.ply
+18 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling97
+assets/LevelModels/Ceiling.ply
+18 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor100
+assets/LevelModels/Floor.ply
+18 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling98
+assets/LevelModels/Ceiling.ply
+18 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor101
+assets/LevelModels/Floor.ply
+18 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling99
+assets/LevelModels/Ceiling.ply
+18 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor102
+assets/LevelModels/Floor.ply
+18 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling100
+assets/LevelModels/Ceiling.ply
+18 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor103
+assets/LevelModels/Floor.ply
+18 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling101
+assets/LevelModels/Ceiling.ply
+18 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor104
+assets/LevelModels/Floor.ply
+18 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling102
+assets/LevelModels/Ceiling.ply
+18 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall55
+assets/LevelModels/Wall.ply
+18 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor105
+assets/LevelModels/Floor.ply
+18 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling103
+assets/LevelModels/Ceiling.ply
+18 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall56
+assets/LevelModels/Wall.ply
+18 1 28
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall57
+assets/LevelModels/Wall.ply
+16 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor106
+assets/LevelModels/Floor.ply
+18 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling104
+assets/LevelModels/Ceiling.ply
+18 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor107
+assets/LevelModels/Floor.ply
+18 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling105
+assets/LevelModels/Ceiling.ply
+18 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall58
+assets/LevelModels/Wall.ply
+18 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor108
+assets/LevelModels/Floor.ply
+20 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling106
+assets/LevelModels/Ceiling.ply
+20 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall59
+assets/LevelModels/Wall.ply
+20 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor109
+assets/LevelModels/Floor.ply
+20 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling107
+assets/LevelModels/Ceiling.ply
+20 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall60
+assets/LevelModels/Wall.ply
+20 1 6
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor110
+assets/LevelModels/Floor.ply
+20 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling108
+assets/LevelModels/Ceiling.ply
+20 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall61
+assets/LevelModels/Wall.ply
+20 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall62
+assets/LevelModels/Wall.ply
+20 1 10
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor111
+assets/LevelModels/Floor.ply
+20 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling109
+assets/LevelModels/Ceiling.ply
+20 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall63
+assets/LevelModels/Wall.ply
+20 1 12
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor112
+assets/LevelModels/Floor.ply
+20 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling110
+assets/LevelModels/Ceiling.ply
+20 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall64
+assets/LevelModels/Wall.ply
+20 1 14
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor113
+assets/LevelModels/Floor.ply
+20 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling111
+assets/LevelModels/Ceiling.ply
+20 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor114
+assets/LevelModels/Floor.ply
+20 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling112
+assets/LevelModels/Ceiling.ply
+20 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor115
+assets/LevelModels/Floor.ply
+20 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling113
+assets/LevelModels/Ceiling.ply
+20 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall65
+assets/LevelModels/Wall.ply
+20 1 20
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor116
+assets/LevelModels/Floor.ply
+20 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling114
+assets/LevelModels/Ceiling.ply
+20 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall66
+assets/LevelModels/Wall.ply
+20 1 22
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor117
+assets/LevelModels/Floor.ply
+20 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling115
+assets/LevelModels/Ceiling.ply
+20 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall67
+assets/LevelModels/Wall.ply
+20 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall68
+assets/LevelModels/Wall.ply
+20 1 24
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor118
+assets/LevelModels/Floor.ply
+20 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling116
+assets/LevelModels/Ceiling.ply
+20 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall69
+assets/LevelModels/Wall.ply
+20 1 28
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall70
+assets/LevelModels/Wall.ply
+20 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor119
+assets/LevelModels/Floor.ply
+20 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling117
+assets/LevelModels/Ceiling.ply
+20 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor120
+assets/LevelModels/Floor.ply
+20 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling118
+assets/LevelModels/Ceiling.ply
+20 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall71
+assets/LevelModels/Wall.ply
+20 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor121
+assets/LevelModels/Floor.ply
+22 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling119
+assets/LevelModels/Ceiling.ply
+22 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall72
+assets/LevelModels/Wall.ply
+22 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor122
+assets/LevelModels/Floor.ply
+22 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling120
+assets/LevelModels/Ceiling.ply
+22 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall73
+assets/LevelModels/Wall.ply
+22 1 6
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor123
+assets/LevelModels/Floor.ply
+22 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door2
+assets/LevelModels/Door.ply
+22 1 16
+0 90 0
+door.bmp
+1
+1.8
+0
+Mesh Wall74
+assets/LevelModels/Wall.ply
+22 1 16
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor124
+assets/LevelModels/Floor.ply
+22 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door3
+assets/LevelModels/Door.ply
+22 1 20
+0 -90 0
+door.bmp
+1
+1.8
+0
+Mesh Wall75
+assets/LevelModels/Wall.ply
+22 1 20
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor125
+assets/LevelModels/Floor.ply
+22 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling121
+assets/LevelModels/Ceiling.ply
+22 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall76
+assets/LevelModels/Wall.ply
+22 1 30
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor126
+assets/LevelModels/Floor.ply
+22 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling122
+assets/LevelModels/Ceiling.ply
+22 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall77
+assets/LevelModels/Wall.ply
+22 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor127
+assets/LevelModels/Floor.ply
+24 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling123
+assets/LevelModels/Ceiling.ply
+24 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall78
+assets/LevelModels/Wall.ply
+24 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor128
+assets/LevelModels/Floor.ply
+24 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling124
+assets/LevelModels/Ceiling.ply
+24 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall79
+assets/LevelModels/Wall.ply
+24 1 6
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor129
+assets/LevelModels/Floor.ply
+24 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling125
+assets/LevelModels/Ceiling.ply
+24 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall80
+assets/LevelModels/Wall.ply
+24 1 16
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor130
+assets/LevelModels/Floor.ply
+24 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling126
+assets/LevelModels/Ceiling.ply
+24 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall81
+assets/LevelModels/Wall.ply
+24 1 20
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor131
+assets/LevelModels/Floor.ply
+24 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling127
+assets/LevelModels/Ceiling.ply
+24 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall82
+assets/LevelModels/Wall.ply
+24 1 30
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor132
+assets/LevelModels/Floor.ply
+24 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling128
+assets/LevelModels/Ceiling.ply
+24 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall83
+assets/LevelModels/Wall.ply
+24 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor133
+assets/LevelModels/Floor.ply
+26 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling129
+assets/LevelModels/Ceiling.ply
+26 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall84
+assets/LevelModels/Wall.ply
+26 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor134
+assets/LevelModels/Floor.ply
+26 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling130
+assets/LevelModels/Ceiling.ply
+26 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor135
+assets/LevelModels/Floor.ply
+26 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling131
+assets/LevelModels/Ceiling.ply
+26 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall85
+assets/LevelModels/Wall.ply
+26 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall86
+assets/LevelModels/Wall.ply
+24 1 6
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor136
+assets/LevelModels/Floor.ply
+26 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling132
+assets/LevelModels/Ceiling.ply
+26 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall87
+assets/LevelModels/Wall.ply
+26 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall88
+assets/LevelModels/Wall.ply
+24 1 10
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor137
+assets/LevelModels/Floor.ply
+26 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling133
+assets/LevelModels/Ceiling.ply
+26 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall89
+assets/LevelModels/Wall.ply
+24 1 12
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor138
+assets/LevelModels/Floor.ply
+26 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling134
+assets/LevelModels/Ceiling.ply
+26 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall90
+assets/LevelModels/Wall.ply
+24 1 14
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor139
+assets/LevelModels/Floor.ply
+26 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling135
+assets/LevelModels/Ceiling.ply
+26 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor140
+assets/LevelModels/Floor.ply
+26 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling136
+assets/LevelModels/Ceiling.ply
+26 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor141
+assets/LevelModels/Floor.ply
+26 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling137
+assets/LevelModels/Ceiling.ply
+26 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall91
+assets/LevelModels/Wall.ply
+24 1 20
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor142
+assets/LevelModels/Floor.ply
+26 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling138
+assets/LevelModels/Ceiling.ply
+26 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall92
+assets/LevelModels/Wall.ply
+24 1 22
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor143
+assets/LevelModels/Floor.ply
+26 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling139
+assets/LevelModels/Ceiling.ply
+26 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall93
+assets/LevelModels/Wall.ply
+26 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall94
+assets/LevelModels/Wall.ply
+24 1 24
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor144
+assets/LevelModels/Floor.ply
+26 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling140
+assets/LevelModels/Ceiling.ply
+26 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall95
+assets/LevelModels/Wall.ply
+26 1 30
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor145
+assets/LevelModels/Floor.ply
+26 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling141
+assets/LevelModels/Ceiling.ply
+26 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall96
+assets/LevelModels/Wall.ply
+26 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor146
+assets/LevelModels/Floor.ply
+28 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling142
+assets/LevelModels/Ceiling.ply
+28 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall97
+assets/LevelModels/Wall.ply
+28 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor147
+assets/LevelModels/Floor.ply
+28 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling143
+assets/LevelModels/Ceiling.ply
+28 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor148
+assets/LevelModels/Floor.ply
+28 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling144
+assets/LevelModels/Ceiling.ply
+28 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall98
+assets/LevelModels/Wall.ply
+28 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor149
+assets/LevelModels/Floor.ply
+28 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling145
+assets/LevelModels/Ceiling.ply
+28 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall99
+assets/LevelModels/Wall.ply
+28 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor150
+assets/LevelModels/Floor.ply
+28 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling146
+assets/LevelModels/Ceiling.ply
+28 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor151
+assets/LevelModels/Floor.ply
+28 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling147
+assets/LevelModels/Ceiling.ply
+28 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor152
+assets/LevelModels/Floor.ply
+28 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling148
+assets/LevelModels/Ceiling.ply
+28 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor153
+assets/LevelModels/Floor.ply
+28 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling149
+assets/LevelModels/Ceiling.ply
+28 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor154
+assets/LevelModels/Floor.ply
+28 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling150
+assets/LevelModels/Ceiling.ply
+28 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor155
+assets/LevelModels/Floor.ply
+28 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling151
+assets/LevelModels/Ceiling.ply
+28 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor156
+assets/LevelModels/Floor.ply
+28 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling152
+assets/LevelModels/Ceiling.ply
+28 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor157
+assets/LevelModels/Floor.ply
+28 1 26
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door4
+assets/LevelModels/Door.ply
+26 1 26
+0 180 0
+door.bmp
+1
+1.8
+0
+Mesh Wall100
+assets/LevelModels/Wall.ply
+26 1 26
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor158
+assets/LevelModels/Floor.ply
+28 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling153
+assets/LevelModels/Ceiling.ply
+28 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall101
+assets/LevelModels/Wall.ply
+26 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor159
+assets/LevelModels/Floor.ply
+28 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling154
+assets/LevelModels/Ceiling.ply
+28 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor160
+assets/LevelModels/Floor.ply
+28 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling155
+assets/LevelModels/Ceiling.ply
+28 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall102
+assets/LevelModels/Wall.ply
+28 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor161
+assets/LevelModels/Floor.ply
+30 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling156
+assets/LevelModels/Ceiling.ply
+30 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall103
+assets/LevelModels/Wall.ply
+30 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor162
+assets/LevelModels/Floor.ply
+30 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling157
+assets/LevelModels/Ceiling.ply
+30 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor163
+assets/LevelModels/Floor.ply
+30 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling158
+assets/LevelModels/Ceiling.ply
+30 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall104
+assets/LevelModels/Wall.ply
+30 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor164
+assets/LevelModels/Floor.ply
+30 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling159
+assets/LevelModels/Ceiling.ply
+30 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall105
+assets/LevelModels/Wall.ply
+30 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor165
+assets/LevelModels/Floor.ply
+30 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling160
+assets/LevelModels/Ceiling.ply
+30 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor166
+assets/LevelModels/Floor.ply
+30 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling161
+assets/LevelModels/Ceiling.ply
+30 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor167
+assets/LevelModels/Floor.ply
+30 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling162
+assets/LevelModels/Ceiling.ply
+30 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor168
+assets/LevelModels/Floor.ply
+30 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling163
+assets/LevelModels/Ceiling.ply
+30 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor169
+assets/LevelModels/Floor.ply
+30 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling164
+assets/LevelModels/Ceiling.ply
+30 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor170
+assets/LevelModels/Floor.ply
+30 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling165
+assets/LevelModels/Ceiling.ply
+30 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor171
+assets/LevelModels/Floor.ply
+30 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling166
+assets/LevelModels/Ceiling.ply
+30 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor172
+assets/LevelModels/Floor.ply
+30 1 26
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door5
+assets/LevelModels/Door.ply
+30 1 26
+0 0 0
+door.bmp
+1
+1.8
+0
+Mesh Wall106
+assets/LevelModels/Wall.ply
+30 1 26
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor173
+assets/LevelModels/Floor.ply
+30 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling167
+assets/LevelModels/Ceiling.ply
+30 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall107
+assets/LevelModels/Wall.ply
+30 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor174
+assets/LevelModels/Floor.ply
+30 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling168
+assets/LevelModels/Ceiling.ply
+30 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall108
+assets/LevelModels/Wall.ply
+30 1 30
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor175
+assets/LevelModels/Floor.ply
+30 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling169
+assets/LevelModels/Ceiling.ply
+30 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall109
+assets/LevelModels/Wall.ply
+30 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall110
+assets/LevelModels/Wall.ply
+30 1 32
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor176
+assets/LevelModels/Floor.ply
+32 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling170
+assets/LevelModels/Ceiling.ply
+32 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall111
+assets/LevelModels/Wall.ply
+32 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor177
+assets/LevelModels/Floor.ply
+32 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling171
+assets/LevelModels/Ceiling.ply
+32 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor178
+assets/LevelModels/Floor.ply
+32 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling172
+assets/LevelModels/Ceiling.ply
+32 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall112
+assets/LevelModels/Wall.ply
+32 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor179
+assets/LevelModels/Floor.ply
+32 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling173
+assets/LevelModels/Ceiling.ply
+32 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall113
+assets/LevelModels/Wall.ply
+32 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor180
+assets/LevelModels/Floor.ply
+32 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling174
+assets/LevelModels/Ceiling.ply
+32 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor181
+assets/LevelModels/Floor.ply
+32 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling175
+assets/LevelModels/Ceiling.ply
+32 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor182
+assets/LevelModels/Floor.ply
+32 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling176
+assets/LevelModels/Ceiling.ply
+32 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor183
+assets/LevelModels/Floor.ply
+32 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling177
+assets/LevelModels/Ceiling.ply
+32 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor184
+assets/LevelModels/Floor.ply
+32 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling178
+assets/LevelModels/Ceiling.ply
+32 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor185
+assets/LevelModels/Floor.ply
+32 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling179
+assets/LevelModels/Ceiling.ply
+32 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor186
+assets/LevelModels/Floor.ply
+32 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling180
+assets/LevelModels/Ceiling.ply
+32 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall114
+assets/LevelModels/Wall.ply
+32 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor187
+assets/LevelModels/Floor.ply
+34 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling181
+assets/LevelModels/Ceiling.ply
+34 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall115
+assets/LevelModels/Wall.ply
+34 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor188
+assets/LevelModels/Floor.ply
+34 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling182
+assets/LevelModels/Ceiling.ply
+34 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor189
+assets/LevelModels/Floor.ply
+34 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling183
+assets/LevelModels/Ceiling.ply
+34 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall116
+assets/LevelModels/Wall.ply
+34 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor190
+assets/LevelModels/Floor.ply
+34 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling184
+assets/LevelModels/Ceiling.ply
+34 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall117
+assets/LevelModels/Wall.ply
+34 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor191
+assets/LevelModels/Floor.ply
+34 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling185
+assets/LevelModels/Ceiling.ply
+34 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor192
+assets/LevelModels/Floor.ply
+34 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling186
+assets/LevelModels/Ceiling.ply
+34 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor193
+assets/LevelModels/Floor.ply
+34 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling187
+assets/LevelModels/Ceiling.ply
+34 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor194
+assets/LevelModels/Floor.ply
+34 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling188
+assets/LevelModels/Ceiling.ply
+34 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor195
+assets/LevelModels/Floor.ply
+34 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling189
+assets/LevelModels/Ceiling.ply
+34 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor196
+assets/LevelModels/Floor.ply
+34 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling190
+assets/LevelModels/Ceiling.ply
+34 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor197
+assets/LevelModels/Floor.ply
+34 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling191
+assets/LevelModels/Ceiling.ply
+34 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall118
+assets/LevelModels/Wall.ply
+34 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor198
+assets/LevelModels/Floor.ply
+36 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling192
+assets/LevelModels/Ceiling.ply
+36 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall119
+assets/LevelModels/Wall.ply
+36 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor199
+assets/LevelModels/Floor.ply
+36 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling193
+assets/LevelModels/Ceiling.ply
+36 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall120
+assets/LevelModels/Wall.ply
+36 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor200
+assets/LevelModels/Floor.ply
+36 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling194
+assets/LevelModels/Ceiling.ply
+36 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall121
+assets/LevelModels/Wall.ply
+36 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor201
+assets/LevelModels/Floor.ply
+36 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling195
+assets/LevelModels/Ceiling.ply
+36 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor202
+assets/LevelModels/Floor.ply
+36 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling196
+assets/LevelModels/Ceiling.ply
+36 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor203
+assets/LevelModels/Floor.ply
+36 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling197
+assets/LevelModels/Ceiling.ply
+36 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor204
+assets/LevelModels/Floor.ply
+36 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling198
+assets/LevelModels/Ceiling.ply
+36 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor205
+assets/LevelModels/Floor.ply
+36 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling199
+assets/LevelModels/Ceiling.ply
+36 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor206
+assets/LevelModels/Floor.ply
+36 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling200
+assets/LevelModels/Ceiling.ply
+36 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor207
+assets/LevelModels/Floor.ply
+36 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling201
+assets/LevelModels/Ceiling.ply
+36 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall122
+assets/LevelModels/Wall.ply
+36 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor208
+assets/LevelModels/Floor.ply
+38 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling202
+assets/LevelModels/Ceiling.ply
+38 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall123
+assets/LevelModels/Wall.ply
+38 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor209
+assets/LevelModels/Floor.ply
+38 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling203
+assets/LevelModels/Ceiling.ply
+38 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor210
+assets/LevelModels/Floor.ply
+38 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling204
+assets/LevelModels/Ceiling.ply
+38 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall124
+assets/LevelModels/Wall.ply
+38 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor211
+assets/LevelModels/Floor.ply
+38 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling205
+assets/LevelModels/Ceiling.ply
+38 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall125
+assets/LevelModels/Wall.ply
+38 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor212
+assets/LevelModels/Floor.ply
+38 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling206
+assets/LevelModels/Ceiling.ply
+38 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor213
+assets/LevelModels/Floor.ply
+38 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling207
+assets/LevelModels/Ceiling.ply
+38 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor214
+assets/LevelModels/Floor.ply
+38 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling208
+assets/LevelModels/Ceiling.ply
+38 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor215
+assets/LevelModels/Floor.ply
+38 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling209
+assets/LevelModels/Ceiling.ply
+38 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor216
+assets/LevelModels/Floor.ply
+38 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling210
+assets/LevelModels/Ceiling.ply
+38 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor217
+assets/LevelModels/Floor.ply
+38 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling211
+assets/LevelModels/Ceiling.ply
+38 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor218
+assets/LevelModels/Floor.ply
+38 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling212
+assets/LevelModels/Ceiling.ply
+38 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor219
+assets/LevelModels/Floor.ply
+38 1 26
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door6
+assets/LevelModels/Door.ply
+36 1 26
+0 180 0
+door.bmp
+1
+1.8
+0
+Mesh Wall126
+assets/LevelModels/Wall.ply
+36 1 26
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor220
+assets/LevelModels/Floor.ply
+38 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling213
+assets/LevelModels/Ceiling.ply
+38 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall127
+assets/LevelModels/Wall.ply
+36 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor221
+assets/LevelModels/Floor.ply
+38 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling214
+assets/LevelModels/Ceiling.ply
+38 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall128
+assets/LevelModels/Wall.ply
+36 1 30
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor222
+assets/LevelModels/Floor.ply
+38 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling215
+assets/LevelModels/Ceiling.ply
+38 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall129
+assets/LevelModels/Wall.ply
+38 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall130
+assets/LevelModels/Wall.ply
+36 1 32
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor223
+assets/LevelModels/Floor.ply
+40 1 2
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling216
+assets/LevelModels/Ceiling.ply
+40 1 2
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall131
+assets/LevelModels/Wall.ply
+40 1 2
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall132
+assets/LevelModels/Wall.ply
+40 1 2
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor224
+assets/LevelModels/Floor.ply
+40 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling217
+assets/LevelModels/Ceiling.ply
+40 1 4
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall133
+assets/LevelModels/Wall.ply
+40 1 4
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor225
+assets/LevelModels/Floor.ply
+40 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling218
+assets/LevelModels/Ceiling.ply
+40 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall134
+assets/LevelModels/Wall.ply
+40 1 8
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall135
+assets/LevelModels/Wall.ply
+40 1 6
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor226
+assets/LevelModels/Floor.ply
+40 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling219
+assets/LevelModels/Ceiling.ply
+40 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall136
+assets/LevelModels/Wall.ply
+40 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor227
+assets/LevelModels/Floor.ply
+40 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling220
+assets/LevelModels/Ceiling.ply
+40 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor228
+assets/LevelModels/Floor.ply
+40 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling221
+assets/LevelModels/Ceiling.ply
+40 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor229
+assets/LevelModels/Floor.ply
+40 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling222
+assets/LevelModels/Ceiling.ply
+40 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor230
+assets/LevelModels/Floor.ply
+40 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling223
+assets/LevelModels/Ceiling.ply
+40 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor231
+assets/LevelModels/Floor.ply
+40 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling224
+assets/LevelModels/Ceiling.ply
+40 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor232
+assets/LevelModels/Floor.ply
+40 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling225
+assets/LevelModels/Ceiling.ply
+40 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor233
+assets/LevelModels/Floor.ply
+40 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling226
+assets/LevelModels/Ceiling.ply
+40 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor234
+assets/LevelModels/Floor.ply
+40 1 26
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door7
+assets/LevelModels/Door.ply
+40 1 26
+0 0 0
+door.bmp
+1
+1.8
+0
+Mesh Wall137
+assets/LevelModels/Wall.ply
+40 1 26
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor235
+assets/LevelModels/Floor.ply
+40 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling227
+assets/LevelModels/Ceiling.ply
+40 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor236
+assets/LevelModels/Floor.ply
+40 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling228
+assets/LevelModels/Ceiling.ply
+40 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor237
+assets/LevelModels/Floor.ply
+40 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling229
+assets/LevelModels/Ceiling.ply
+40 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall138
+assets/LevelModels/Wall.ply
+40 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor238
+assets/LevelModels/Floor.ply
+42 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling230
+assets/LevelModels/Ceiling.ply
+42 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall139
+assets/LevelModels/Wall.ply
+42 1 10
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall140
+assets/LevelModels/Wall.ply
+42 1 10
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor239
+assets/LevelModels/Floor.ply
+42 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling231
+assets/LevelModels/Ceiling.ply
+42 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall141
+assets/LevelModels/Wall.ply
+42 1 12
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor240
+assets/LevelModels/Floor.ply
+42 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling232
+assets/LevelModels/Ceiling.ply
+42 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall142
+assets/LevelModels/Wall.ply
+42 1 14
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor241
+assets/LevelModels/Floor.ply
+42 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling233
+assets/LevelModels/Ceiling.ply
+42 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor242
+assets/LevelModels/Floor.ply
+42 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling234
+assets/LevelModels/Ceiling.ply
+42 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor243
+assets/LevelModels/Floor.ply
+42 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling235
+assets/LevelModels/Ceiling.ply
+42 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall143
+assets/LevelModels/Wall.ply
+42 1 20
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor244
+assets/LevelModels/Floor.ply
+42 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling236
+assets/LevelModels/Ceiling.ply
+42 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall144
+assets/LevelModels/Wall.ply
+42 1 22
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor245
+assets/LevelModels/Floor.ply
+42 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling237
+assets/LevelModels/Ceiling.ply
+42 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall145
+assets/LevelModels/Wall.ply
+42 1 26
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall146
+assets/LevelModels/Wall.ply
+42 1 24
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor246
+assets/LevelModels/Floor.ply
+42 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling238
+assets/LevelModels/Ceiling.ply
+42 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall147
+assets/LevelModels/Wall.ply
+42 1 28
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor247
+assets/LevelModels/Floor.ply
+42 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling239
+assets/LevelModels/Ceiling.ply
+42 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor248
+assets/LevelModels/Floor.ply
+42 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling240
+assets/LevelModels/Ceiling.ply
+42 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall148
+assets/LevelModels/Wall.ply
+42 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor249
+assets/LevelModels/Floor.ply
+44 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door8
+assets/LevelModels/Door.ply
+44 1 16
+0 90 0
+door.bmp
+1
+1.8
+0
+Mesh Wall149
+assets/LevelModels/Wall.ply
+44 1 16
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor250
+assets/LevelModels/Floor.ply
+44 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door9
+assets/LevelModels/Door.ply
+44 1 20
+0 -90 0
+door.bmp
+1
+1.8
+0
+Mesh Wall150
+assets/LevelModels/Wall.ply
+44 1 20
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor251
+assets/LevelModels/Floor.ply
+44 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling241
+assets/LevelModels/Ceiling.ply
+44 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall151
+assets/LevelModels/Wall.ply
+44 1 28
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor252
+assets/LevelModels/Floor.ply
+44 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling242
+assets/LevelModels/Ceiling.ply
+44 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor253
+assets/LevelModels/Floor.ply
+44 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling243
+assets/LevelModels/Ceiling.ply
+44 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall152
+assets/LevelModels/Wall.ply
+44 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor254
+assets/LevelModels/Floor.ply
+46 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling244
+assets/LevelModels/Ceiling.ply
+46 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall153
+assets/LevelModels/Wall.ply
+46 1 16
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor255
+assets/LevelModels/Floor.ply
+46 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling245
+assets/LevelModels/Ceiling.ply
+46 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall154
+assets/LevelModels/Wall.ply
+46 1 20
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor256
+assets/LevelModels/Floor.ply
+46 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling246
+assets/LevelModels/Ceiling.ply
+46 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall155
+assets/LevelModels/Wall.ply
+46 1 28
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor257
+assets/LevelModels/Floor.ply
+46 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling247
+assets/LevelModels/Ceiling.ply
+46 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall156
+assets/LevelModels/Wall.ply
+46 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor258
+assets/LevelModels/Floor.ply
+48 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling248
+assets/LevelModels/Ceiling.ply
+48 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall157
+assets/LevelModels/Wall.ply
+48 1 16
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor259
+assets/LevelModels/Floor.ply
+48 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling249
+assets/LevelModels/Ceiling.ply
+48 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall158
+assets/LevelModels/Wall.ply
+48 1 20
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor260
+assets/LevelModels/Floor.ply
+48 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling250
+assets/LevelModels/Ceiling.ply
+48 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall159
+assets/LevelModels/Wall.ply
+48 1 28
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall160
+assets/LevelModels/Wall.ply
+48 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor261
+assets/LevelModels/Floor.ply
+48 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling251
+assets/LevelModels/Ceiling.ply
+48 1 30
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall161
+assets/LevelModels/Wall.ply
+48 1 30
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor262
+assets/LevelModels/Floor.ply
+48 1 32
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling252
+assets/LevelModels/Ceiling.ply
+48 1 32
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall162
+assets/LevelModels/Wall.ply
+48 1 34
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall163
+assets/LevelModels/Wall.ply
+48 1 32
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor263
+assets/LevelModels/Floor.ply
+50 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling253
+assets/LevelModels/Ceiling.ply
+50 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall164
+assets/LevelModels/Wall.ply
+50 1 14
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall165
+assets/LevelModels/Wall.ply
+48 1 14
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor264
+assets/LevelModels/Floor.ply
+50 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling254
+assets/LevelModels/Ceiling.ply
+50 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor265
+assets/LevelModels/Floor.ply
+50 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling255
+assets/LevelModels/Ceiling.ply
+50 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor266
+assets/LevelModels/Floor.ply
+50 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling256
+assets/LevelModels/Ceiling.ply
+50 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall166
+assets/LevelModels/Wall.ply
+50 1 22
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall167
+assets/LevelModels/Wall.ply
+48 1 20
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor267
+assets/LevelModels/Floor.ply
+52 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling257
+assets/LevelModels/Ceiling.ply
+52 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall168
+assets/LevelModels/Wall.ply
+52 1 14
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor268
+assets/LevelModels/Floor.ply
+52 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling258
+assets/LevelModels/Ceiling.ply
+52 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor269
+assets/LevelModels/Floor.ply
+52 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling259
+assets/LevelModels/Ceiling.ply
+52 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor270
+assets/LevelModels/Floor.ply
+52 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling260
+assets/LevelModels/Ceiling.ply
+52 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall169
+assets/LevelModels/Wall.ply
+52 1 22
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor271
+assets/LevelModels/Floor.ply
+54 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling261
+assets/LevelModels/Ceiling.ply
+54 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall170
+assets/LevelModels/Wall.ply
+54 1 14
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor272
+assets/LevelModels/Floor.ply
+54 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling262
+assets/LevelModels/Ceiling.ply
+54 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor273
+assets/LevelModels/Floor.ply
+54 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling263
+assets/LevelModels/Ceiling.ply
+54 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor274
+assets/LevelModels/Floor.ply
+54 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling264
+assets/LevelModels/Ceiling.ply
+54 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall171
+assets/LevelModels/Wall.ply
+54 1 22
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor275
+assets/LevelModels/Floor.ply
+56 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling265
+assets/LevelModels/Ceiling.ply
+56 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall172
+assets/LevelModels/Wall.ply
+56 1 14
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor276
+assets/LevelModels/Floor.ply
+56 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling266
+assets/LevelModels/Ceiling.ply
+56 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor277
+assets/LevelModels/Floor.ply
+56 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling267
+assets/LevelModels/Ceiling.ply
+56 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor278
+assets/LevelModels/Floor.ply
+56 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling268
+assets/LevelModels/Ceiling.ply
+56 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall173
+assets/LevelModels/Wall.ply
+56 1 22
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor279
+assets/LevelModels/Floor.ply
+58 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling269
+assets/LevelModels/Ceiling.ply
+58 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall174
+assets/LevelModels/Wall.ply
+58 1 14
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor280
+assets/LevelModels/Floor.ply
+58 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling270
+assets/LevelModels/Ceiling.ply
+58 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor281
+assets/LevelModels/Floor.ply
+58 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling271
+assets/LevelModels/Ceiling.ply
+58 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor282
+assets/LevelModels/Floor.ply
+58 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling272
+assets/LevelModels/Ceiling.ply
+58 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall175
+assets/LevelModels/Wall.ply
+58 1 22
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor283
+assets/LevelModels/Floor.ply
+60 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling273
+assets/LevelModels/Ceiling.ply
+60 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall176
+assets/LevelModels/Wall.ply
+60 1 14
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor284
+assets/LevelModels/Floor.ply
+60 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling274
+assets/LevelModels/Ceiling.ply
+60 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor285
+assets/LevelModels/Floor.ply
+60 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling275
+assets/LevelModels/Ceiling.ply
+60 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor286
+assets/LevelModels/Floor.ply
+60 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling276
+assets/LevelModels/Ceiling.ply
+60 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall177
+assets/LevelModels/Wall.ply
+60 1 22
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor287
+assets/LevelModels/Floor.ply
+62 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling277
+assets/LevelModels/Ceiling.ply
+62 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall178
+assets/LevelModels/Wall.ply
+62 1 14
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor288
+assets/LevelModels/Floor.ply
+62 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling278
+assets/LevelModels/Ceiling.ply
+62 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor289
+assets/LevelModels/Floor.ply
+62 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling279
+assets/LevelModels/Ceiling.ply
+62 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor290
+assets/LevelModels/Floor.ply
+62 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling280
+assets/LevelModels/Ceiling.ply
+62 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall179
+assets/LevelModels/Wall.ply
+62 1 22
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor291
+assets/LevelModels/Floor.ply
+64 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling281
+assets/LevelModels/Ceiling.ply
+64 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall180
+assets/LevelModels/Wall.ply
+64 1 14
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor292
+assets/LevelModels/Floor.ply
+64 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling282
+assets/LevelModels/Ceiling.ply
+64 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor293
+assets/LevelModels/Floor.ply
+64 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling283
+assets/LevelModels/Ceiling.ply
+64 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor294
+assets/LevelModels/Floor.ply
+64 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling284
+assets/LevelModels/Ceiling.ply
+64 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall181
+assets/LevelModels/Wall.ply
+64 1 22
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor295
+assets/LevelModels/Floor.ply
+66 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling285
+assets/LevelModels/Ceiling.ply
+66 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall182
+assets/LevelModels/Wall.ply
+66 1 12
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall183
+assets/LevelModels/Wall.ply
+64 1 12
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor296
+assets/LevelModels/Floor.ply
+66 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling286
+assets/LevelModels/Ceiling.ply
+66 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor297
+assets/LevelModels/Floor.ply
+66 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling287
+assets/LevelModels/Ceiling.ply
+66 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor298
+assets/LevelModels/Floor.ply
+66 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling288
+assets/LevelModels/Ceiling.ply
+66 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor299
+assets/LevelModels/Floor.ply
+66 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling289
+assets/LevelModels/Ceiling.ply
+66 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor300
+assets/LevelModels/Floor.ply
+66 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling290
+assets/LevelModels/Ceiling.ply
+66 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall184
+assets/LevelModels/Wall.ply
+66 1 24
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall185
+assets/LevelModels/Wall.ply
+64 1 22
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor301
+assets/LevelModels/Floor.ply
+68 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling291
+assets/LevelModels/Ceiling.ply
+68 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall186
+assets/LevelModels/Wall.ply
+68 1 12
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor302
+assets/LevelModels/Floor.ply
+68 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling292
+assets/LevelModels/Ceiling.ply
+68 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor303
+assets/LevelModels/Floor.ply
+68 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling293
+assets/LevelModels/Ceiling.ply
+68 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor304
+assets/LevelModels/Floor.ply
+68 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling294
+assets/LevelModels/Ceiling.ply
+68 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor305
+assets/LevelModels/Floor.ply
+68 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling295
+assets/LevelModels/Ceiling.ply
+68 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall187
+assets/LevelModels/Wall.ply
+68 1 24
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor306
+assets/LevelModels/Floor.ply
+70 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling296
+assets/LevelModels/Ceiling.ply
+70 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall188
+assets/LevelModels/Wall.ply
+70 1 12
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor307
+assets/LevelModels/Floor.ply
+70 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling297
+assets/LevelModels/Ceiling.ply
+70 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor308
+assets/LevelModels/Floor.ply
+70 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling298
+assets/LevelModels/Ceiling.ply
+70 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor309
+assets/LevelModels/Floor.ply
+70 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling299
+assets/LevelModels/Ceiling.ply
+70 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor310
+assets/LevelModels/Floor.ply
+70 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling300
+assets/LevelModels/Ceiling.ply
+70 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor311
+assets/LevelModels/Floor.ply
+70 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling301
+assets/LevelModels/Ceiling.ply
+70 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall189
+assets/LevelModels/Wall.ply
+70 1 24
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor312
+assets/LevelModels/Floor.ply
+72 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling302
+assets/LevelModels/Ceiling.ply
+72 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall190
+assets/LevelModels/Wall.ply
+72 1 12
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall191
+assets/LevelModels/Wall.ply
+72 1 12
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor313
+assets/LevelModels/Floor.ply
+72 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling303
+assets/LevelModels/Ceiling.ply
+72 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall192
+assets/LevelModels/Wall.ply
+72 1 14
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor314
+assets/LevelModels/Floor.ply
+72 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling304
+assets/LevelModels/Ceiling.ply
+72 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor315
+assets/LevelModels/Floor.ply
+72 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling305
+assets/LevelModels/Ceiling.ply
+72 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor316
+assets/LevelModels/Floor.ply
+72 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling306
+assets/LevelModels/Ceiling.ply
+72 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall193
+assets/LevelModels/Wall.ply
+72 1 20
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor317
+assets/LevelModels/Floor.ply
+72 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling307
+assets/LevelModels/Ceiling.ply
+72 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall194
+assets/LevelModels/Wall.ply
+72 1 24
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall195
+assets/LevelModels/Wall.ply
+72 1 22
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor318
+assets/LevelModels/Floor.ply
+74 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door10
+assets/LevelModels/Door.ply
+74 1 16
+0 90 0
+door.bmp
+1
+1.8
+0
+Mesh Wall196
+assets/LevelModels/Wall.ply
+74 1 16
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor319
+assets/LevelModels/Floor.ply
+74 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Door11
+assets/LevelModels/Door.ply
+74 1 20
+0 -90 0
+door.bmp
+1
+1.8
+0
+Mesh Wall197
+assets/LevelModels/Wall.ply
+74 1 20
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor320
+assets/LevelModels/Floor.ply
+76 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling308
+assets/LevelModels/Ceiling.ply
+76 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall198
+assets/LevelModels/Wall.ply
+76 1 6
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall199
+assets/LevelModels/Wall.ply
+74 1 6
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor321
+assets/LevelModels/Floor.ply
+76 1 8
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling309
+assets/LevelModels/Ceiling.ply
+76 1 8
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall200
+assets/LevelModels/Wall.ply
+74 1 8
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor322
+assets/LevelModels/Floor.ply
+76 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling310
+assets/LevelModels/Ceiling.ply
+76 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall201
+assets/LevelModels/Wall.ply
+74 1 10
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor323
+assets/LevelModels/Floor.ply
+76 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling311
+assets/LevelModels/Ceiling.ply
+76 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall202
+assets/LevelModels/Wall.ply
+74 1 12
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor324
+assets/LevelModels/Floor.ply
+76 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling312
+assets/LevelModels/Ceiling.ply
+76 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall203
+assets/LevelModels/Wall.ply
+74 1 14
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor325
+assets/LevelModels/Floor.ply
+76 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling313
+assets/LevelModels/Ceiling.ply
+76 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor326
+assets/LevelModels/Floor.ply
+76 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling314
+assets/LevelModels/Ceiling.ply
+76 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor327
+assets/LevelModels/Floor.ply
+76 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling315
+assets/LevelModels/Ceiling.ply
+76 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall204
+assets/LevelModels/Wall.ply
+74 1 20
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor328
+assets/LevelModels/Floor.ply
+76 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling316
+assets/LevelModels/Ceiling.ply
+76 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall205
+assets/LevelModels/Wall.ply
+74 1 22
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor329
+assets/LevelModels/Floor.ply
+76 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling317
+assets/LevelModels/Ceiling.ply
+76 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall206
+assets/LevelModels/Wall.ply
+74 1 24
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor330
+assets/LevelModels/Floor.ply
+76 1 26
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling318
+assets/LevelModels/Ceiling.ply
+76 1 26
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall207
+assets/LevelModels/Wall.ply
+74 1 26
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor331
+assets/LevelModels/Floor.ply
+76 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling319
+assets/LevelModels/Ceiling.ply
+76 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall208
+assets/LevelModels/Wall.ply
+76 1 30
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall209
+assets/LevelModels/Wall.ply
+74 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor332
+assets/LevelModels/Floor.ply
+78 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling320
+assets/LevelModels/Ceiling.ply
+78 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall210
+assets/LevelModels/Wall.ply
+78 1 6
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor333
+assets/LevelModels/Floor.ply
+78 1 8
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling321
+assets/LevelModels/Ceiling.ply
+78 1 8
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor334
+assets/LevelModels/Floor.ply
+78 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling322
+assets/LevelModels/Ceiling.ply
+78 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor335
+assets/LevelModels/Floor.ply
+78 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling323
+assets/LevelModels/Ceiling.ply
+78 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor336
+assets/LevelModels/Floor.ply
+78 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling324
+assets/LevelModels/Ceiling.ply
+78 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor337
+assets/LevelModels/Floor.ply
+78 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling325
+assets/LevelModels/Ceiling.ply
+78 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor338
+assets/LevelModels/Floor.ply
+78 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling326
+assets/LevelModels/Ceiling.ply
+78 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor339
+assets/LevelModels/Floor.ply
+78 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling327
+assets/LevelModels/Ceiling.ply
+78 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor340
+assets/LevelModels/Floor.ply
+78 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling328
+assets/LevelModels/Ceiling.ply
+78 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor341
+assets/LevelModels/Floor.ply
+78 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling329
+assets/LevelModels/Ceiling.ply
+78 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor342
+assets/LevelModels/Floor.ply
+78 1 26
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling330
+assets/LevelModels/Ceiling.ply
+78 1 26
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor343
+assets/LevelModels/Floor.ply
+78 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling331
+assets/LevelModels/Ceiling.ply
+78 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall211
+assets/LevelModels/Wall.ply
+78 1 30
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor344
+assets/LevelModels/Floor.ply
+80 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling332
+assets/LevelModels/Ceiling.ply
+80 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall212
+assets/LevelModels/Wall.ply
+80 1 6
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor345
+assets/LevelModels/Floor.ply
+80 1 8
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling333
+assets/LevelModels/Ceiling.ply
+80 1 8
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor346
+assets/LevelModels/Floor.ply
+80 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling334
+assets/LevelModels/Ceiling.ply
+80 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor347
+assets/LevelModels/Floor.ply
+80 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling335
+assets/LevelModels/Ceiling.ply
+80 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor348
+assets/LevelModels/Floor.ply
+80 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling336
+assets/LevelModels/Ceiling.ply
+80 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor349
+assets/LevelModels/Floor.ply
+80 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling337
+assets/LevelModels/Ceiling.ply
+80 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor350
+assets/LevelModels/Floor.ply
+80 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling338
+assets/LevelModels/Ceiling.ply
+80 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor351
+assets/LevelModels/Floor.ply
+80 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling339
+assets/LevelModels/Ceiling.ply
+80 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor352
+assets/LevelModels/Floor.ply
+80 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling340
+assets/LevelModels/Ceiling.ply
+80 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor353
+assets/LevelModels/Floor.ply
+80 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling341
+assets/LevelModels/Ceiling.ply
+80 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor354
+assets/LevelModels/Floor.ply
+80 1 26
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling342
+assets/LevelModels/Ceiling.ply
+80 1 26
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Floor355
+assets/LevelModels/Floor.ply
+80 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling343
+assets/LevelModels/Ceiling.ply
+80 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall213
+assets/LevelModels/Wall.ply
+80 1 30
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Floor356
+assets/LevelModels/Floor.ply
+82 1 6
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling344
+assets/LevelModels/Ceiling.ply
+82 1 6
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall214
+assets/LevelModels/Wall.ply
+82 1 6
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall215
+assets/LevelModels/Wall.ply
+82 1 6
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor357
+assets/LevelModels/Floor.ply
+82 1 8
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling345
+assets/LevelModels/Ceiling.ply
+82 1 8
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall216
+assets/LevelModels/Wall.ply
+82 1 8
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor358
+assets/LevelModels/Floor.ply
+82 1 10
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling346
+assets/LevelModels/Ceiling.ply
+82 1 10
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall217
+assets/LevelModels/Wall.ply
+82 1 10
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor359
+assets/LevelModels/Floor.ply
+82 1 12
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling347
+assets/LevelModels/Ceiling.ply
+82 1 12
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall218
+assets/LevelModels/Wall.ply
+82 1 12
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor360
+assets/LevelModels/Floor.ply
+82 1 14
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling348
+assets/LevelModels/Ceiling.ply
+82 1 14
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall219
+assets/LevelModels/Wall.ply
+82 1 14
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor361
+assets/LevelModels/Floor.ply
+82 1 16
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling349
+assets/LevelModels/Ceiling.ply
+82 1 16
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall220
+assets/LevelModels/Wall.ply
+82 1 16
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor362
+assets/LevelModels/Floor.ply
+82 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling350
+assets/LevelModels/Ceiling.ply
+82 1 18
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall221
+assets/LevelModels/Wall.ply
+82 1 18
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor363
+assets/LevelModels/Floor.ply
+82 1 20
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling351
+assets/LevelModels/Ceiling.ply
+82 1 20
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall222
+assets/LevelModels/Wall.ply
+82 1 20
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor364
+assets/LevelModels/Floor.ply
+82 1 22
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling352
+assets/LevelModels/Ceiling.ply
+82 1 22
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall223
+assets/LevelModels/Wall.ply
+82 1 22
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor365
+assets/LevelModels/Floor.ply
+82 1 24
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling353
+assets/LevelModels/Ceiling.ply
+82 1 24
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall224
+assets/LevelModels/Wall.ply
+82 1 24
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor366
+assets/LevelModels/Floor.ply
+82 1 26
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling354
+assets/LevelModels/Ceiling.ply
+82 1 26
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall225
+assets/LevelModels/Wall.ply
+82 1 26
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh Floor367
+assets/LevelModels/Floor.ply
+82 1 28
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh Ceiling355
+assets/LevelModels/Ceiling.ply
+82 1 28
+0 0 0
+Ceiling.bmp
+1
+1
+0
+Mesh Wall226
+assets/LevelModels/Wall.ply
+82 1 30
+0 0 0
+Wall.bmp
+1
+1
+0
+Mesh Wall227
+assets/LevelModels/Wall.ply
+82 1 28
+0 90 0
+Wall.bmp
+1
+1
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+3.26251 2.57545 15.9481
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+3.30969 2.57545 22.2647
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+5.48623 2.57545 14.5316
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+5.75904 2.57545 16.6989
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+6.077 2.57545 18.7353
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+6.38053 2.57545 22.6339
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+8.61276 2.57545 4.41365
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+8.73016 2.57545 12.1159
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+8.71075 2.57545 21.7965
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+10.5581 2.57545 3.51518
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+10.301 2.57545 15.3247
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+9.98738 2.57545 17.2608
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+9.67616 2.57545 19.3354
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+9.42563 2.57545 29.5345
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+11.2827 2.57545 3.82087
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+11.2742 2.57545 12.1408
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+11.4017 2.57545 30.4343
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+13.6413 2.57545 4.64648
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+13.9481 2.57545 14.7375
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+14.2647 2.57545 18.6903
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+14.5316 2.57545 20.5138
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+14.6989 2.57545 22.241
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+16.7353 2.57545 11.923
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+16.6339 2.57545 13.6195
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+16.4137 2.57545 19.3872
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+16.1159 2.57545 21.2698
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+17.7965 2.57545 13.2893
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+17.5152 2.57545 15.4419
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+17.3247 2.57545 19.699
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+19.2608 2.57545 30.0126
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+27.9564 2.57545 4.73802
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+28.3377 2.57545 12.6577
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+27.3298 2.57545 14.3122
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+28.1408 2.57545 16.7258
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+28.4343 2.57545 18.5983
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+28.6465 2.57545 20.3587
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+28.7375 2.57545 22.0519
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+28.6903 2.57545 29.7353
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+29.9595 2.57545 4.7382
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+32.017 1.01367 4.00538
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+32.6565 2.57545 12.3399
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+32.593 2.57545 14.4416
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+32.4137 2.57545 15.3872
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+31.2698 2.57545 17.8841
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+31.2893 2.57545 20.2035
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+31.4419 2.57545 22.4848
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+34.4666 1.01181 4.3109
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+35.2547 1.01189 4.72536
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+36.7295 2.57545 14.1203
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+36.5744 2.57545 20.4655
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+35.8787 1.00968 5.23447
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+38.7388 2.57545 13.9734
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+38.5983 2.57545 19.5657
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+40.6693 2.57545 11.686
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+40.7199 2.57545 13.8319
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+40.3185 2.57545 15.3328
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+39.4684 2.57545 17.4862
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+39.3011 2.57545 19.759
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+39.2647 2.57545 22.077
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+39.3661 2.57545 30.3805
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+41.5863 2.57545 30.6128
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+43.8841 2.57545 30.7302
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+46.2035 2.57545 30.7107
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+52.4848 2.57545 16.5581
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+52.6753 2.57545 18.301
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+56.7392 2.57545 15.9874
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+56.6646 2.57545 17.6762
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+60.4655 2.57545 15.4256
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+60.1791 2.57545 17.2827
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+61.8592 2.57545 15.2742
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+61.5657 2.57545 17.4017
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+65.3535 2.57545 15.6413
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+65.2625 2.57545 17.9481
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+67.3097 2.57545 14.2647
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+67.4862 2.57545 16.5316
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+67.759 2.57545 18.6989
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+68.077 2.57545 20.7353
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+70.3805 2.57545 16.6339
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+70.6128 2.57545 18.4137
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+78.7302 2.57545 8.11593
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+78.7107 2.57545 9.79649
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+78.5582 2.57545 11.5152
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+78.301 2.57545 13.3247
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+77.9874 2.57545 15.2608
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+77.6762 2.57545 17.3354
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+77.4256 2.57545 19.5345
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+77.2827 2.57545 21.8209
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+77.2742 2.57545 24.1408
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+77.4017 2.57545 26.4343
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+79.6413 2.57545 8.64648
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+79.9481 2.57545 10.7375
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+80.2647 2.57545 12.6903
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+80.5316 2.57545 14.5138
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+80.6989 2.57545 16.241
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+80.7353 2.57545 17.923
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+80.6339 2.57545 19.6195
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+80.4137 2.57545 21.3872
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+80.1159 2.57545 23.2698
+0 0 0
+
+1
+0.3
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+79.7965 2.57545 25.2893
+0 0 0
+
+1
+0.3
+1
+Mesh Floor368
+assets/LevelModels/Floor.ply
+10 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh YellowKey
+assets/LevelModels/YellowKey.ply
+10 2 30
+-90 0 7169.92
+Keys.bmp
+1
+3
+0
+Mesh Floor369
+assets/LevelModels/Floor.ply
+36 1 4
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh BlueKey
+assets/LevelModels/BlueKey.ply
+36 2 4
+-90 0 7169.92
+Keys.bmp
+1
+3
+0
+Mesh Floor370
+assets/LevelModels/Floor.ply
+46 1 30
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh GreenKey
+assets/LevelModels/GreenKey.ply
+46 2 30
+-90 0 7169.92
+Keys.bmp
+1
+3
+0
+Mesh Floor371
+assets/LevelModels/Floor.ply
+68 1 18
+0 0 0
+Floor.bmp
+1
+1
+0
+Mesh RedKey
+assets/LevelModels/RedKey.ply
+68 2 18
+-90 0 7169.92
+Keys.bmp
+1
+3
+0
+Mesh Ammo0
+assets/LevelModels/ammo.ply
+2 2 11
+0 7169.92 0
+ammo.bmp
+1
+1
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+2 2 11
+0 0 0
+
+1
+2
+1
+Mesh Heart0
+assets/LevelModels/Heart.ply
+16 2 3
+0 7169.92 0
+heart.bmp
+1
+0.003
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+16 2 3
+0 0 0
+
+1
+2
+1
+Mesh Ammo1
+assets/LevelModels/ammo.ply
+16 2 23
+0 7169.92 0
+ammo.bmp
+1
+1
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+16 2 23
+0 0 0
+
+1
+2
+1
+Mesh Ammo2
+assets/LevelModels/ammo.ply
+30 2 11
+0 7169.92 0
+ammo.bmp
+1
+1
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+30 2 11
+0 0 0
+
+1
+2
+1
+Mesh Heart1
+assets/LevelModels/Heart.ply
+34 2 23
+0 7169.92 0
+heart.bmp
+1
+0.003
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+34 2 23
+0 0 0
+
+1
+2
+1
+Mesh Ammo3
+assets/LevelModels/ammo.ply
+40 2 23
+0 7169.92 0
+ammo.bmp
+1
+1
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+40 2 23
+0 0 0
+
+1
+2
+1
+Mesh Heart2
+assets/LevelModels/Heart.ply
+50 2 21
+0 7169.92 0
+heart.bmp
+1
+0.003
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+50 2 21
+0 0 0
+
+1
+2
+1
+Mesh Heart3
+assets/LevelModels/Heart.ply
+66 2 13
+0 7169.92 0
+heart.bmp
+1
+0.003
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+66 2 13
+0 0 0
+
+1
+2
+1
+Mesh Ammo4
+assets/LevelModels/ammo.ply
+76 2 27
+0 7169.92 0
+ammo.bmp
+1
+1
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+76 2 27
+0 0 0
+
+1
+2
+1
+Mesh Heart4
+assets/LevelModels/Heart.ply
+80 2 17
+0 7169.92 0
+heart.bmp
+1
+0.003
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+80 2 17
+0 0 0
+
+1
+2
+1
+Mesh Ammo5
+assets/LevelModels/ammo.ply
+82 2 7
+0 7169.92 0
+ammo.bmp
+1
+1
+0
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+82 2 7
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+4 1 8
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+8 1 8
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+22 1 16
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+22 1 20
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+26 1 26
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+30 1 26
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+36 1 26
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+40 1 26
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+44 1 16
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+44 1 20
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+74 1 16
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+74 1 20
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+68 2 18
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+10 2 30
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+36 2 4
+0 0 0
+
+1
+2
+1
+Mesh 
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+46 2 30
+0 0 0
+
+1
+2
+1
+Lights
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+35.4903 2.5 3.91585
+1 1 1
+0.1 0.01
+0.96015 -0.0265258 -0.278223
+1 5 10
+1
+10 4 30
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+36 4 4
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+46 4 30
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+68 4 18
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+2 4 11
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+16 4 3
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+16 4 23
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+30 4 11
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+34 4 23
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+40 4 23
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+50 4 21
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+66 4 13
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+76 4 27
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+80 4 17
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+82 4 7
+1 1 1
+0.1 0.1
+0 -1 0
+1 0 25
+1
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
+0 0 0
+1 1 1
+0.1 0.01
+0 0 0
+0 0 0
+0
